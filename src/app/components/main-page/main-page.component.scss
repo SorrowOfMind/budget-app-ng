@@ -38,3 +38,13 @@
         }
     }
 }
+
+.add-item-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .add-item-container {
+        width: 680px;
+       
+    }
+}
